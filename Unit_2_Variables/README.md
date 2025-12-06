@@ -15,3 +15,10 @@ Values your game can store and change (name, health, score, weapon).
 - Float → decimals (1.0, 2.4, 0.0, 3.14)
 - Boolean → True/False
 
+## Making a Variable
+ - Variable name = value
+ - Ex. age = 24
+
+## Snake Case
+ - If a variable has 2 or more words, use an underscore and lowercase letters
+ - Ex. is_on = False
