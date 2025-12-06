@@ -1,4 +1,5 @@
-name = "Jack" #strimg
+#Variables
+name = "Jack" #string
 age = 26 #integer
 has_job = True #boolean
 height = 6.2 #float
