@@ -1,3 +1,7 @@
+#What you will learn
+#   - User input
+#   - Review of concantenation, type casting
+
 #User Input
 #To get user input, type input() and set it to a variable
 #The input is defaulted to a string
