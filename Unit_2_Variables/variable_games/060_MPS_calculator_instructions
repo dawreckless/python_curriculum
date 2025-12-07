@@ -1,0 +1,15 @@
+## Final Project — Speed Calculator (Miles Per Hour)
+
+Create a program that asks the user for:
+1. A distance traveled (in miles)
+2. The time it took (in hours)
+
+Then calculate the speed using:
+speed = distance / time
+
+Finally, print the result in a clear sentence.
+
+### Example:
+Distance: 120  
+Time: 2  
+Speed: 60 mph
