@@ -1,0 +1,12 @@
+## Final Project — Temperature Converter
+
+Create a program that asks the user for a temperature in Fahrenheit, converts it to Celsius, and prints the result.
+
+Formula:
+C = (F - 32) * (5/9)
+
+The program should:
+- Ask for input
+- Convert the input into a float
+- Do the math
+- Display the temperature in both units
