@@ -22,3 +22,11 @@ Values your game can store and change (name, health, score, weapon).
 ## Snake Case
  - If a variable has 2 or more words, use an underscore and lowercase letters
  - Ex. is_on = False
+
+## What you will learn
+ - Variables
+ - Data Types
+ - String concantenation
+ - Type Casting
+ - Input
+ - Variable Math and Operations
