@@ -1,3 +1,9 @@
+# What you will learn
+#   - Logical Operators
+#   - Review of Comparison Operators
+#   - Review of if, else, elif statements
+#   - Review of Assignment Operators
+
 # Logical Operators -> used for conditional statements
 # and - True if ALL conditions are True
 # or  - True if ANY condition is True
