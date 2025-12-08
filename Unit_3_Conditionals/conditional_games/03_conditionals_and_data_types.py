@@ -1,4 +1,6 @@
-
+# What you will learn
+#   - Using data types with conditionals
+#   - Blank lines
 
 color = input("Enter a color: ")
 # String
