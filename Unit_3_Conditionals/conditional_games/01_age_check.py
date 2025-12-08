@@ -1,3 +1,8 @@
+# What you will learn
+#   - if, else, elif statement
+#   - Comparison Operators
+#   - Assigment Operators
+
 # if - else statement
 # IF a condition is True do something
 # Else do something else
