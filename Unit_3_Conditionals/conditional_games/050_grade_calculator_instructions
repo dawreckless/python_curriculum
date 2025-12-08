@@ -1,0 +1,19 @@
+## Grade Calculator
+
+Create a program that asks the user for their test score and prints their letter grade.
+
+### Steps:
+1. Ask the user to enter a score between 0 and 100.
+2. Convert their input into a number.
+3. Use if/elif/else to decide the letter grade:
+   - 90–100 → A
+   - 80–89 → B
+   - 70–79 → C
+   - 60–69 → D
+   - 0–59  → F
+4. If the score is above 100 or below 0, print an error message.
+5. Otherwise, print the final grade.
+
+### Example:
+Enter score: 87  
+Your grade is: B
