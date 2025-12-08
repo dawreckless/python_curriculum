@@ -28,5 +28,5 @@ elif age < 0:
 else:
     print("You are not an adult!")
 
-#Always put the LEAST specific condition first
+#Always put the MOST specific condition first
           
