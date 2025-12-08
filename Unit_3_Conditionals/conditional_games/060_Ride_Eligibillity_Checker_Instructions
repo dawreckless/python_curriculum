@@ -1,0 +1,19 @@
+## Ride Eligibility Checker
+
+Create a program that asks the user for their height and age, then decides if they can ride a theme-park roller coaster. This project practices the logical operators **and**, **or**, and **not**.
+
+### Steps:
+1. Ask the user for their height in feet.
+2. Ask the user for their age.
+3. Use conditionals to check:
+   - If height is at least 4 feet **and** age is at least 10 → they can ride.
+   - If height is at least 4 feet **or** age is at least 10 → they can ride with adult supervision.
+   - If the user is **not** tall enough (height < 4) → they cannot ride.
+4. Print the correct message based on the conditions.
+
+### Example:
+```
+Enter height: 4.2
+Enter age: 8
+You can ride with adult supervision.
+```
