@@ -1,0 +1,21 @@
+## Basic Calculator
+
+Create a simple calculator that can add, subtract, multiply, or divide two numbers.
+
+### Steps: 
+1. Ask the user for the first number  
+2. Ask the user for the second number  
+3. Ask the user which operation they want to use (+, -, *, /)  
+4. Use if/elif/else statements to decide which operation to perform  
+5. Do the calculation and print the result  
+6. If the user tries to divide by zero, display an error message  
+7. If the user enters an invalid operation, print "Invalid operation"
+
+### Example:
+```
+Enter first number: 10
+Enter second number: 3
+Choose an operation (+, -, *, /): *
+
+Result: 30
+```
