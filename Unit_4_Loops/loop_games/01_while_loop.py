@@ -1,3 +1,5 @@
+#What you will learn:
+#   - While Loops
 # While Loops - Do something WHILE a condition is TRUE
 
 # while condition is true:
