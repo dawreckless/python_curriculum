@@ -1,6 +1,6 @@
 #what you will learn
 #   - For loops
-#   - Start, Stop, Step
+#   - Range
 
 # A for loop repeats something a set number of times.
 
