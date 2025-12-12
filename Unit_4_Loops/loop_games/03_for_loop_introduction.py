@@ -1,4 +1,4 @@
-#what you will learn
+# What you will learn: 
 #   - For loops
 #   - Range
 
