@@ -1,9 +1,9 @@
- Rocket Launch Simulator
+## Rocket Launch Simulator
 
 Create a program where the user must enter the correct passcode to launch a rocket.  
 If they enter the wrong passcode, they must try again.
 
- What You Must Use:
+### What You Must Use:
 - Variables  
 - Conditionals  
 - While loops  
@@ -11,7 +11,7 @@ If they enter the wrong passcode, they must try again.
 - `break` (to cancel the launch)  
 - `continue` (for invalid/empty input)
 
- Steps:
+### Steps:
 1. Start with a secret passcode (any number you want).
 2. Ask the user to type the passcode.
 3. If they type "cancel", stop the game using `break`.
@@ -20,7 +20,7 @@ If they enter the wrong passcode, they must try again.
 6. When the passcode is correct, print a countdown from 5 to 1 using a **for loop**.
 7. After the countdown, print **"LAUNCH! 🚀"**
 
- Example:
+### Example:
 ```
 Enter passcode: abc
 Invalid input.
