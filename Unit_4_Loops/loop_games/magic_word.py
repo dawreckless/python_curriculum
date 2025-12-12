@@ -1,4 +1,4 @@
-magic_word = "open"
+magic_word = "please"
 
 while True:
     word = input("Say the magic word: ")
