@@ -1,0 +1,25 @@
+## Star Pyramid Builder
+
+Create a program that builds a pyramid of stars using a **for loop**.
+
+### What You Will Use:
+- Variables  
+- For loops  
+- Range  
+- Simple string multiplication  
+- Conditionals (optional bonus)
+
+### Steps:
+1. Ask the user for a number (this will be the height of the pyramid).
+2. Use a **for loop** to build the pyramid from 1 up to the number.
+3. On each loop, print that many stars.
+4. If the number is less than 1, print "Invalid height."
+
+### Example:
+Enter pyramid height: 5
+
+\*
+\*\*
+\*\*\*
+\*\*\*\*
+\*\*\*\*\*
