@@ -1,7 +1,7 @@
 # What you will learn:
 #    - Review of while loop
 
-name = "":
+name = ""
 
 while name == "": #Remember: condition after while is ALWAYS True or False
   name = input("Enter name: ")
