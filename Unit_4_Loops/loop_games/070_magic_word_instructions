@@ -1,0 +1,27 @@
+## Magic Word Gate
+
+Create a program where the user must type the correct magic word to open a gate.
+
+### What You Will Use:
+- Variables  
+- While loop  
+- Conditionals  
+- `break` and `continue`
+
+### Steps:
+1. Start with a secret magic word.
+2. Ask the user to type a word.
+3. If the user types nothing (empty input), use `continue` to ask again.
+4. If the user types "quit", use `break` to end the game.
+5. If the user types the wrong word, say "Wrong!" and ask again.
+6. If the user types the correct magic word, say "Gate opened!" and stop the loop.
+
+### Example:
+```
+Say the magic word: hi
+Wrong!
+Say the magic word: 
+(continue)
+Say the magic word: open
+Gate opened!
+```
