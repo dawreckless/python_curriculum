@@ -10,6 +10,7 @@ Each section with 3 numbers (Ex. 040) is a mini-game with instructions and the c
 ## Values
 This course values learning and understanding instead of copying code. 
 In this course, I would rather have student make less games but understand them fully, instead of making 100 games but just copying them from an instructor.
+Coding has to be fun, not repititive and boring
 
 ## Units
 1. Introduction to Python
