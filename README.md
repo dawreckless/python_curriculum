@@ -1,6 +1,6 @@
 # Python Curriculum 
 
-Welcome to the begineer Python Curriculum!
+Welcome to the beginner Python Curriculum!
 
 ## How to teach this curriculum
 This curriculum is specifically designed for teachers, but can be used by students.
