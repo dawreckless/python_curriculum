@@ -1,4 +1,4 @@
-# TLC Python Curriculum 
+# Python Curriculum 
 
 Welcome to the beginner TLC Python curriculum.  
 This course teaches Python through fun mini-games in each unit.
@@ -10,13 +10,6 @@ This course teaches Python through fun mini-games in each unit.
 4. Loops
 5. Lists & Dictionaries
 6. Functions
-
-## What You'll Learn
-- Variables and storing information  
-- Making decisions with conditionals  
-- Repeating actions with loops  
-- Tracking items with lists & dictionaries  
-- Organizing code using functions  
 
 
 
