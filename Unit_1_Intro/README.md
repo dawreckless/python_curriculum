@@ -14,6 +14,6 @@ A beginner-friendly programming language used in apps, AI, automation, games, an
 - AI makes coding faster, not unnecessary  
 
 ## What You Will Learn
-- Printing text  
-- Basic syntax  
-- Your first program 
+- How to install Python
+- Using Python
+- Writing your first program
