@@ -5,6 +5,18 @@ print("Hello", name)
 
 After you have typed this, save the file with ctrl + s
 
+Naming Files
+When naming files, follow these general rules:
+1. End it with .py
+2. All lowercase
+3. No spaces
+4. Describes the program
+
+Good Examples:
+rocket_launch.py
+basic_calculator.py
+
+
 Click "Run" -> "Run Module"
 
 Congrats! You have made your first program
