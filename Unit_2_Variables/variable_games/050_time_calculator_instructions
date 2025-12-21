@@ -1,13 +1,13 @@
-## Minutes to Hours Converter
+Minutes to Hours Converter
 
 Create a program that asks the user for a number of minutes and converts it into hours.
 
-### Steps:
+Steps:
 1. Ask the user how many minutes they want to convert.
 2. Convert their input from a string to a float or integer.
 3. Divide the minutes by 60 to get hours.
 4. Print the result in a clear sentence.
 
-### Example:
+Example:
 Enter minutes: 90  
 That is 1.5 hours.
