@@ -3,4 +3,4 @@ time = float(input("Enter time in hours: "))
 
 speed = distance / time
 
-print("Your speed was", speed, "miles per hour.")
+print("Your speed was" + str(speed) + "miles per hour.")
