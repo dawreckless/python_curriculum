@@ -9,7 +9,7 @@ speed = distance / time
 
 Finally, print the result in a clear sentence.
 
-### Example:
+Example:
 Distance: 120  
 Time: 2  
 Speed: 60 mph
