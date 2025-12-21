@@ -13,9 +13,14 @@ When naming files, follow these general rules:
 4. Describes the program
 
 Good Examples:
+example.py
 rocket_launch.py
 basic_calculator.py
 
+Bad Examples: 
+test!!!.python
+example (1).py
+My Game.py
 
 Click "Run" -> "Run Module"
 
