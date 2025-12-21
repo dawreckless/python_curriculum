@@ -1,17 +1,10 @@
-#What you will learn
+# What you will learn
 #  - Introduction to variables
 #  - print statement review
 #  - string concantenation
 #  - Modifying data types
 
-#Variables
-name = "Jack" #string
-age = 26 #integer
-has_job = True #boolean
-height = 6.2 #float
 
-#To add a string to other strings use +
-#Modify the data type wrap the variable () and put str in front of it
 
 print("My name is " + name)
 print("My unofficial age is " + str(age))
