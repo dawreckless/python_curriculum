@@ -1,0 +1,11 @@
+In the editor, type this:
+
+name = input("What is your name? ")
+print("Hello", name)
+
+After you have typed this, save the file with ctrl + s
+
+Click "Run" -> "Run Module"
+
+Congrats! You have made your first program
+(The code will be explained later, don't worry)
