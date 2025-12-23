@@ -1,4 +1,4 @@
-# Unit 3 — Conditionals (If, Elif, Else)
+# Unit 3 — Conditionals
 
 ## What Are Conditionals?
 Conditionals let your game make decisions.  
