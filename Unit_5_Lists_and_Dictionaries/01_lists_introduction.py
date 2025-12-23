@@ -9,7 +9,7 @@ subjects = ["math","language arts","history","science"]
 # The first value is always 0.
 print(subjects[0]) # prints "math"
 
-print("I am going to say every class!")
+print("I am going to say every subject!")
 
 # For every item in the list, print each item.
 
