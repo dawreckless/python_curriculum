@@ -15,15 +15,21 @@ Dictionaries store key-value pairs that are ordered and changable, but duplicate
 
 Example:
 student_info = {
-  "name":"Bobby"
-  "age":16
-  is_male:True
-  "gpa":3.7
+
+  "name":"Bobby",
+  
+  "age":16,
+  
+  is_male:True,
+  
+  "gpa":3.7,
+  
 }
 
 ## Why do we need Lists and Dictionaries?
 
 Lists help you store many similar values into one variable.
+
 Dictionaries help you store named information.
 
 Together, they make code much faster and easier to read and use.
