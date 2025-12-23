@@ -21,7 +21,7 @@ Games use loops constantly for:
 - Moving enemies  
 - Checking for game-over conditions  
 
-## Types of Loops You Will Learn
+## What You Will Learn
 - while loops  
 - for loops  
 - break (stop a loop)  
